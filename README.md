@@ -5,6 +5,6 @@ Data File Types:
 https://docs.fileformat.com/misc/h5/#google_vignette
 
 Machine Learning Tools and Libraries 
-Tensorflow 
+Tensorflow, NumPy for dataset detection.
 
 A focus on reading the file types through using Python and drawing conclusions through various data patterns and statistical analysis
