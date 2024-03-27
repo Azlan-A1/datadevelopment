@@ -4,6 +4,9 @@ Repository that contains files and machine learning tools to model data and pres
 Data File Types: 
 https://docs.fileformat.com/misc/h5/#google_vignette
 
+HDF File Group Data Sharing & Organization: 
+https://www.hdfgroup.org/solutions/hdf5/
+
 Machine Learning Tools and Libraries 
 Tensorflow, NumPy for dataset detection.
 
