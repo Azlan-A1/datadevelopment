@@ -11,3 +11,9 @@ Machine Learning Tools and Libraries
 Tensorflow, NumPy for dataset detection.
 
 A focus on reading the file types through using Python and drawing conclusions through various data patterns and statistical analysis
+
+Languages to familarize on: 
+
+- Python: https://docs.python.org/3/
+- Matlab: https://www.mathworks.com/help/matlab/
+- R: https://www.r-project.org/other-docs.html
